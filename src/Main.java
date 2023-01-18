@@ -1,5 +1,5 @@
 public class Main {
-    public void main(String[] args) {
+    public static void main(String[] args) {
         suma(3, 4, 7);
         Coche miCoche = new Coche();
         miCoche.agregarPuerta();
